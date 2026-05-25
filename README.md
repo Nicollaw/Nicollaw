@@ -59,17 +59,6 @@ Abaixo estão algumas das tecnologias e ferramentas com as quais eu trabalho ou 
 
 ---
 
-### 🎯 O que eu ando aprontando?
-
-* 🔭 **No momento, estou trabalhando em:** (Aqui você pode colocar um link para o seu projeto mais importante)
-* 🌱 **Eu estou aprendendo:** [Insira a tecnologia/conceito novo aqui, ex: Docker, Go, Kubernetes]
-* 👯 **Eu busco colaborar em:** Projetos open source focados em APIs ou automação de processos.
-* 💬 **Me pergunte sobre:** Lógica de programação, desafios de backend e automações com Python.
-* 📫 **Como me encontrar:** (Aqui você coloca o seu e-mail de contato, ou link para o seu perfil no LinkedIn)
-* ⚡ **Fato curioso:** (Aqui você coloca algo pessoal e leve sobre você, para mostrar que é um ser humano também!)
-
----
-
 #### 📈 Minhas estatísticas do GitHub
 
 <p align="center">
