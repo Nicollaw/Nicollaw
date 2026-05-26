@@ -1,67 +1,75 @@
- # 👋 Heyy, me chamo Nicolas
-
-## 🚀 Bem vindos ao meu GitHub!!
+<h1 align="center">Olá, eu sou o Nicolas 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-English%20%2F%20Portugu%C3%AAs-blue?style=for-the-badge&logo=language" alt="Languages">
-  <img src="https://img.shields.io/github/followers/Nicollaw?label=Follow&style=for-the-badge&logo=github" alt="Follow">
+  Desenvolvedor Back-End • Estudante de ADS • Mackenzie São Paulo
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-santos-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nicolas--santos--silva-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nicolassantoslv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nicolassantoslv@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## Sobre mim
 
-Sou um estudante apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho um forte interesse em desenvolvimento **Full Stack**, mas com uma preferência especial pelo **Backend**.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie (3º semestre), com foco em desenvolvimento back-end e experiência fullstack.
 
-Estou sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos que resolvam problemas reais.
+Gosto de resolver problemas reais com código — não só exercícios acadêmicos. Atualmente construindo meu portfólio com projetos que automatizam processos e resolvem dores do dia a dia.
 
----
-
-### 🛠️ Habilidades Técnicas
-
-Abaixo estão algumas das tecnologias e ferramentas com as quais eu trabalho ou estou estudando:
-
-<table border="0">
-  <tr>
-    <th align="left">Linguagens</th>
-    <td align="left">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Frontend</th>
-    <td align="left">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Backend</th>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Ferramentas</th>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </td>
-  </tr>
-</table>
+Buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
 
 ---
 
-#### 📈 Minhas estatísticas do GitHub
+## Stack
+
+**Back-end — foco principal**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Front-end — funcional**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Banco de dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## Projetos
+
+> Em construção — em breve os primeiros repositórios públicos.
+
+---
+
+## Formação & Certificações
+
+🎓 **Análise e Desenvolvimento de Sistemas** — Universidade Presbiteriana Mackenzie (cursando)
+
+📜 **Carreira Desenvolvimento Back-End Node.js** — Alura (em andamento)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicollaw&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Nicollaw's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicollaw&layout=compact&theme=nord" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicollaw&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollaw&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="150" />
 </p>
