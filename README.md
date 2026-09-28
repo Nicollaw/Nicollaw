@@ -30,7 +30,7 @@ Buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior
 **Back-end — foco principal**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python" />
 </p>
 
 **Front-end — funcional**
